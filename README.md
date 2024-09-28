@@ -50,4 +50,5 @@ To clone the repository, run the following command in your terminal:
 ## Additional Resources
 
 Click the link below to watch a demonstration video:
+- [Demonstration Video (WebM)](demoVideo.webm)
 
