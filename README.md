@@ -26,9 +26,7 @@ ConstraintLayout allows for flexible positioning and sizing of child views. It's
 ### LinearLayout
 
 LinearLayout arranges its children in a single row or column. It's simpler to use but less flexible for complex layouts.
-- `MainActivity.kt`: Contains the main logic for the application.
-- `activity_main_constraint.xml`: ConstraintLayout version of the UI.
-- `activity_main_linear.xml`: LinearLayout version of the UI.
+
 
 ## Getting Started
 
