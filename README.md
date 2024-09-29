@@ -41,6 +41,7 @@ LinearLayout arranges its children in a single row or column. It's simpler to us
 ### Cloning the Repository
 
 To clone the repository, run the following command in your terminal:
+git clone https://github.com/CHOUAY15/Ex1TP1Interfacesgraphiques.git
 ### Running the Application
 
 1. Open the project in Android Studio.
