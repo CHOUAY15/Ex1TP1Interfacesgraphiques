@@ -50,7 +50,8 @@ To clone the repository, run the following command in your terminal:
 ## Additional Resources
 
 watch a demonstration video:
-[demoVideo.webm](https://github.com/user-attachments/assets/86977b4b-7ccf-46ca-af89-46b6ba71ac46)
+
+https://github.com/user-attachments/assets/86977b4b-7ccf-46ca-af89-46b6ba71ac46
 
 
 ## Contributors
