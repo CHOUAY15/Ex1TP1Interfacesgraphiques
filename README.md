@@ -49,8 +49,10 @@ To clone the repository, run the following command in your terminal:
 4. Click the "Run" button or press Shift + F10.
 ## Additional Resources
 
-Click the link below to watch a demonstration video:
-- [Demonstration Video (WebM)](demoVideo.webm)
+watch a demonstration video:
+[demoVideo.webm](https://github.com/user-attachments/assets/86977b4b-7ccf-46ca-af89-46b6ba71ac46)
+
+
 ## Contributors
 - CHOUAY Walid ([GitHub](https://github.com/CHOUAY15))
   
